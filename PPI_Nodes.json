@@ -1,0 +1,738 @@
+[
+[
+{
+"children": null,
+"cluster": 2,
+"id": 0,
+"count": "molecular_function binding protein binding protein dimerization activity identical protein binding protein homodimerization activity",
+"size": 125.0,
+"text": "A2RVQ5"
+},
+{
+"children": null,
+"cluster": 6,
+"id": 1,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding",
+"size": 125.0,
+"text": "O22456"
+},
+{
+"children": null,
+"cluster": 25,
+"id": 2,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding sequence-specific DNA binding",
+"size": 125.0,
+"text": "O82794"
+},
+{
+"children": null,
+"cluster": 25,
+"id": 3,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding",
+"size": 125.0,
+"text": "P35631"
+},
+{
+"children": null,
+"cluster": 3,
+"id": 4,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding RNA binding translation factor activity, nucleic acid binding translation initiation factor activity RNA cap binding RNA 7-methylguanosine cap binding",
+"size": 125.0,
+"text": "O04663"
+},
+{
+"children": null,
+"cluster": 3,
+"id": 5,
+"count": "molecular_function catalytic activity oxidoreductase activity dioxygenase activity oxidoreductase activity, acting on single donors with incorporation of molecular oxygen oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen lipoxygenase activity",
+"size": 125.0,
+"text": "P38418"
+},
+{
+"children": null,
+"cluster": 6,
+"id": 6,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding",
+"size": 125.0,
+"text": "P48007"
+},
+{
+"children": null,
+"cluster": 7,
+"id": 7,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding sequence-specific DNA binding nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity",
+"size": 125.0,
+"text": "O22763"
+},
+{
+"children": null,
+"cluster": 30,
+"id": 8,
+"count": "molecular_function binding ion binding cation binding metal ion binding calcium ion binding",
+"size": 125.0,
+"text": "P25071"
+},
+{
+"children": null,
+"cluster": 8,
+"id": 9,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on ester bonds carboxylic ester hydrolase activity methyl jasmonate esterase activity methyl salicylate esterase activity methyl indole-3-acetate esterase activity",
+"size": 125.0,
+"text": "O23171"
+},
+{
+"children": null,
+"cluster": 8,
+"id": 10,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on ester bonds carboxylic ester hydrolase activity methyl jasmonate esterase activity methyl salicylate esterase activity methyl indole-3-acetate esterase activity",
+"size": 125.0,
+"text": "O80476"
+},
+{
+"children": null,
+"cluster": 9,
+"id": 11,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleoside phosphate binding ion binding anion binding purine ribonucleoside triphosphate binding small molecule binding protein binding protein dimerization activity identical protein binding protein homodimerization activity catalytic activity hydrolase activity hydrolase activity, acting on acid anhydrides hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides pyrophosphatase activity nucleoside-triphosphatase activity GTPase activity nucleoside binding ribonucleoside binding purine nucleoside binding purine ribonucleoside binding nucleotide binding ribonucleotide binding purine nucleotide binding purine ribonucleotide binding guanyl nucleotide binding guanyl ribonucleotide binding GTP binding",
+"size": 125.0,
+"text": "O23680"
+},
+{
+"children": null,
+"cluster": 9,
+"id": 12,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor activity signaling receptor activity transmembrane signaling receptor activity catalytic activity hydrolase activity hydrolase activity, acting on acid anhydrides hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides pyrophosphatase activity nucleoside-triphosphatase activity GTPase activity",
+"size": 125.0,
+"text": "O81283"
+},
+{
+"children": null,
+"cluster": 10,
+"id": 13,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding structure-specific DNA binding double-stranded DNA binding",
+"size": 125.0,
+"text": "O24646"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 14,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "P43254"
+},
+{
+"children": null,
+"cluster": 11,
+"id": 15,
+"count": "molecular_function catalytic activity oxidoreductase activity oxidoreductase activity, acting on NAD(P)H NADPH dehydrogenase activity",
+"size": 125.0,
+"text": "O48741"
+},
+{
+"children": null,
+"cluster": 11,
+"id": 16,
+"count": "molecular_function transporter activity substrate-specific transporter activity protein transporter activity transmembrane transporter activity substrate-specific transmembrane transporter activity macromolecule transmembrane transporter activity protein transmembrane transporter activity active transmembrane transporter activity primary active transmembrane transporter activity P-P-bond-hydrolysis-driven transmembrane transporter activity P-P-bond-hydrolysis-driven protein transmembrane transporter activity",
+"size": 125.0,
+"text": "P82874"
+},
+{
+"children": null,
+"cluster": 13,
+"id": 17,
+"count": "molecular_function binding ion binding anion binding carboxylic acid binding monocarboxylic acid binding hormone binding small molecule binding alcohol binding lipid binding isoprenoid binding abscisic acid binding protein binding protein dimerization activity identical protein binding protein homodimerization activity receptor activity",
+"size": 125.0,
+"text": "O49686"
+},
+{
+"children": null,
+"cluster": 23,
+"id": 18,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on ester bonds phosphoric ester hydrolase activity phosphatase activity phosphoprotein phosphatase activity protein serine/threonine phosphatase activity",
+"size": 125.0,
+"text": "P49597"
+},
+{
+"children": null,
+"cluster": 24,
+"id": 19,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on ester bonds phosphoric ester hydrolase activity phosphatase activity phosphoprotein phosphatase activity protein serine/threonine phosphatase activity",
+"size": 125.0,
+"text": "P49598"
+},
+{
+"children": null,
+"cluster": 14,
+"id": 20,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "O64682"
+},
+{
+"children": null,
+"cluster": 15,
+"id": 21,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, phosphate group as acceptor kinase activity nucleobase-containing compound kinase activity nucleoside diphosphate kinase activity",
+"size": 125.0,
+"text": "O64903"
+},
+{
+"children": null,
+"cluster": 27,
+"id": 22,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor activity signaling receptor activity photoreceptor activity red or far-red light photoreceptor activity far-red light photoreceptor activity",
+"size": 125.0,
+"text": "P14712"
+},
+{
+"children": null,
+"cluster": 16,
+"id": 23,
+"count": "molecular_function binding ion binding cation binding metal ion binding transition metal ion binding copper ion binding",
+"size": 125.0,
+"text": "O65282"
+},
+{
+"children": null,
+"cluster": 16,
+"id": 24,
+"count": "molecular_function antioxidant activity binding ion binding cation binding metal ion binding transition metal ion binding copper ion binding catalytic activity oxidoreductase activity oxidoreductase activity, acting on superoxide radicals as acceptor superoxide dismutase activity",
+"size": 125.0,
+"text": "P21276"
+},
+{
+"children": null,
+"cluster": 17,
+"id": 25,
+"count": "molecular_function catalytic activity hydrolase activity peptidase activity peptidase activity, acting on L-amino acid peptides endopeptidase activity",
+"size": 125.0,
+"text": "O65390"
+},
+{
+"children": null,
+"cluster": 17,
+"id": 26,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding sequence-specific DNA binding",
+"size": 125.0,
+"text": "P48731"
+},
+{
+"children": null,
+"cluster": 20,
+"id": 27,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding",
+"size": 125.0,
+"text": "O80536"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 28,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor activity signaling receptor activity photoreceptor activity red or far-red light photoreceptor activity red light photoreceptor activity far-red light photoreceptor activity",
+"size": 125.0,
+"text": "P14713"
+},
+{
+"children": null,
+"cluster": 29,
+"id": 29,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor activity signaling receptor activity photoreceptor activity red or far-red light photoreceptor activity",
+"size": 125.0,
+"text": "P42497"
+},
+{
+"children": null,
+"cluster": 21,
+"id": 30,
+"count": "molecular_function binding protein binding calmodulin binding catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity calmodulin-dependent protein kinase activity",
+"size": 125.0,
+"text": "O80673"
+},
+{
+"children": null,
+"cluster": 21,
+"id": 31,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding",
+"size": 125.0,
+"text": "P41151"
+},
+{
+"children": null,
+"cluster": 23,
+"id": 32,
+"count": "molecular_function receptor activity",
+"size": 125.0,
+"text": "O80920"
+},
+{
+"children": null,
+"cluster": 24,
+"id": 33,
+"count": "molecular_function binding protein binding protein dimerization activity identical protein binding protein homodimerization activity receptor activity",
+"size": 125.0,
+"text": "O80992"
+},
+{
+"children": null,
+"cluster": 26,
+"id": 34,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "O82798"
+},
+{
+"children": null,
+"cluster": 30,
+"id": 35,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on acid anhydrides hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides pyrophosphatase activity nucleoside-triphosphatase activity ATPase activity",
+"size": 125.0,
+"text": "P55737"
+},
+{
+"children": null,
+"cluster": 31,
+"id": 36,
+"count": "molecular_function transporter activity substrate-specific transporter activity transmembrane transporter activity substrate-specific transmembrane transporter activity water transmembrane transporter activity passive transmembrane transporter activity channel activity substrate-specific channel activity water channel activity",
+"size": 125.0,
+"text": "P30302"
+},
+{
+"children": null,
+"cluster": 31,
+"id": 37,
+"count": "molecular_function transporter activity substrate-specific transporter activity transmembrane transporter activity substrate-specific transmembrane transporter activity water transmembrane transporter activity passive transmembrane transporter activity channel activity substrate-specific channel activity water channel activity",
+"size": 125.0,
+"text": "P61837"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 38,
+"count": "molecular_function binding binding, bridging protein binding SMAD binding protein binding, bridging clathrin binding clathrin adaptor activity receptor activity cargo receptor activity",
+"size": 125.0,
+"text": "P98082"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 39,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor signaling protein activity transforming growth factor beta receptor, cytoplasmic mediator activity transforming growth factor beta receptor, pathway-specific cytoplasmic mediator activity nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity",
+"size": 125.0,
+"text": "Q15796"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 40,
+"count": "molecular_function binding protein binding protein dimerization activity protein heterodimerization activity beta-catenin binding",
+"size": 125.0,
+"text": "Q92997"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 41,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q9HAU4"
+},
+{
+"children": null,
+"cluster": 35,
+"id": 42,
+"count": "molecular_function binding protein binding cytoskeletal protein binding actin binding actin filament binding",
+"size": 125.0,
+"text": "Q9UM54"
+},
+{
+"children": null,
+"cluster": 36,
+"id": 43,
+"count": "molecular_function nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity",
+"size": 125.0,
+"text": "P98168"
+},
+{
+"children": null,
+"cluster": 36,
+"id": 44,
+"count": "molecular_function nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity",
+"size": 125.0,
+"text": "Q2QGD7"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 45,
+"count": "molecular_function enzyme regulator activity peptidase regulator activity endopeptidase regulator activity cysteine-type endopeptidase regulator activity involved in apoptotic process enzyme inhibitor activity peptidase inhibitor activity endopeptidase inhibitor activity cysteine-type endopeptidase inhibitor activity cysteine-type endopeptidase inhibitor activity involved in apoptotic process catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "P98170"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 46,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "Q13546"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 47,
+"count": "molecular_function binding ion binding cation binding metal ion binding transition metal ion binding zinc ion binding catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q8IUQ4"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 48,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q8WVN8"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 49,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q96B02"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 50,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ISG15 ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q96LR5"
+},
+{
+"children": null,
+"cluster": 44,
+"id": 51,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q9Y2X8"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 52,
+"count": "molecular_function catalytic activity ligase activity ligase activity, forming carbon-nitrogen bonds acid-amino acid ligase activity small conjugating protein ligase activity ubiquitin-protein ligase activity",
+"size": 125.0,
+"text": "Q9Y4K3"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 53,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity protein binding transcription factor activity transcription factor binding transcription factor activity transcription cofactor activity transcription coactivator activity",
+"size": 125.0,
+"text": "Q9Y572"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 54,
+"count": "molecular_function binding protein binding receptor binding ephrin receptor binding",
+"size": 125.0,
+"text": "P98172"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 55,
+"count": "molecular_function binding protein binding protein domain specific binding POZ domain binding",
+"size": 125.0,
+"text": "Q13618"
+},
+{
+"children": null,
+"cluster": 46,
+"id": 56,
+"count": "molecular_function catalytic activity hydrolase activity peptidase activity peptidase activity, acting on L-amino acid peptides cysteine-type peptidase activity endopeptidase activity cysteine-type endopeptidase activity calcium-dependent cysteine-type endopeptidase activity",
+"size": 125.0,
+"text": "Q9HC96"
+},
+{
+"children": null,
+"cluster": 47,
+"id": 57,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding sequence-specific DNA binding",
+"size": 125.0,
+"text": "P98177"
+},
+{
+"children": null,
+"cluster": 47,
+"id": 58,
+"count": "molecular_function protein binding transcription factor activity transcription factor binding transcription factor activity transcription cofactor activity transcription corepressor activity",
+"size": 125.0,
+"text": "Q96EB6"
+},
+{
+"children": null,
+"cluster": 48,
+"id": 59,
+"count": "molecular_function catalytic activity oxidoreductase activity oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen monooxygenase activity oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen alkane 1-monooxygenase activity",
+"size": 125.0,
+"text": "P98187"
+},
+{
+"children": null,
+"cluster": 48,
+"id": 60,
+"count": "molecular_function enzyme regulator activity enzyme activator activity",
+"size": 125.0,
+"text": "Q9UJU6"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 61,
+"count": "molecular_function electron carrier activity electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity binding heterocyclic compound binding organic cyclic compound binding tetrapyrrole binding heme binding",
+"size": 125.0,
+"text": "P99999"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 62,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor signaling protein activity catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity receptor signaling protein serine/threonine kinase activity NF-kappaB-inducing kinase activity",
+"size": 125.0,
+"text": "Q14164"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 63,
+"count": "molecular_function enzyme regulator activity enzyme inhibitor activity telomerase inhibitor activity binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding RNA binding telomeric RNA binding",
+"size": 125.0,
+"text": "Q96BK5"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 64,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor activity signaling receptor activity transmembrane signaling receptor activity",
+"size": 125.0,
+"text": "Q9UBN6"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 65,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "Q9UKE5"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 66,
+"count": "molecular_function antioxidant activity catalytic activity transferase activity transferase activity, transferring alkyl or aryl (other than methyl) groups glutathione transferase activity oxidoreductase activity oxidoreductase activity, acting on peroxide as acceptor peroxidase activity glutathione peroxidase activity",
+"size": 125.0,
+"text": "Q9Y2Q3"
+},
+{
+"children": null,
+"cluster": 55,
+"id": 67,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity",
+"size": 125.0,
+"text": "Q9Y478"
+},
+{
+"children": null,
+"cluster": 56,
+"id": 68,
+"count": "molecular_function enzyme regulator activity phosphatase regulator activity protein phosphatase regulator activity protein phosphatase type 2A regulator activity",
+"size": 125.0,
+"text": "Q00005"
+},
+{
+"children": null,
+"cluster": 56,
+"id": 69,
+"count": "molecular_function enzyme regulator activity kinase regulator activity protein kinase regulator activity enzyme activator activity kinase activator activity protein kinase activator activity protein tyrosine kinase activator activity catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "Q13177"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 70,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, phosphate group as acceptor kinase activity nucleobase-containing compound kinase activity nucleotide kinase activity guanylate kinase activity",
+"size": 125.0,
+"text": "Q00013"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 71,
+"count": "molecular_function enzyme regulator activity kinase regulator activity protein kinase regulator activity enzyme activator activity kinase activator activity protein kinase activator activity protein serine/threonine kinase activator activity binding heterocyclic compound binding organic cyclic compound binding nucleoside phosphate binding ion binding cation binding metal ion binding anion binding purine ribonucleoside triphosphate binding small molecule binding catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity nucleoside binding ribonucleoside binding purine nucleoside binding purine ribonucleoside binding magnesium ion binding nucleotide binding ribonucleotide binding purine nucleotide binding purine ribonucleotide binding adenyl nucleotide binding adenyl ribonucleotide binding ATP binding",
+"size": 125.0,
+"text": "Q13188"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 72,
+"count": "molecular_function enzyme regulator activity peptidase regulator activity endopeptidase regulator activity cysteine-type endopeptidase regulator activity involved in apoptotic process enzyme inhibitor activity peptidase inhibitor activity endopeptidase inhibitor activity cysteine-type endopeptidase inhibitor activity cysteine-type endopeptidase inhibitor activity involved in apoptotic process catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "Q15418"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 73,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor signaling protein activity binding heterocyclic compound binding organic cyclic compound binding nucleoside phosphate binding ion binding cation binding metal ion binding anion binding purine ribonucleoside triphosphate binding small molecule binding catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity protein serine/threonine kinase activity receptor signaling protein serine/threonine kinase activity MAP kinase kinase kinase activity nucleoside binding ribonucleoside binding purine nucleoside binding purine ribonucleoside binding magnesium ion binding nucleotide binding ribonucleotide binding purine nucleotide binding purine ribonucleotide binding adenyl nucleotide binding adenyl ribonucleotide binding ATP binding",
+"size": 125.0,
+"text": "Q9NYL2"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 74,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity",
+"size": 125.0,
+"text": "Q9UK32"
+},
+{
+"children": null,
+"cluster": 61,
+"id": 75,
+"count": "molecular_function binding binding, bridging protein binding misfolded protein binding SMAD binding heat shock protein binding Hsp90 protein binding Hsp70 protein binding protein binding, bridging protein domain specific binding TPR domain binding",
+"size": 125.0,
+"text": "Q9UNE7"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 76,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding DNA binding, bending chromatin binding nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity regulatory region nucleic acid binding regulatory region DNA binding transcription regulatory region DNA binding mitochondrial light strand promoter sense binding",
+"size": 125.0,
+"text": "Q00059"
+},
+{
+"children": null,
+"cluster": 64,
+"id": 77,
+"count": "molecular_function protein binding transcription factor activity transcription factor binding transcription factor activity transcription cofactor activity",
+"size": 125.0,
+"text": "Q9H5Q4"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 78,
+"count": "molecular_function transporter activity substrate-specific transporter activity lipid transporter activity phospholipid transporter activity phosphatidylinositol transporter activity transmembrane transporter activity phosphate transmembrane transporter activity organic hydroxy compound transmembrane transporter activity substrate-specific transmembrane transporter activity alcohol transmembrane transporter activity ion transmembrane transporter activity anion transmembrane transporter activity organic anion transmembrane transporter activity cation transmembrane transporter activity organic cation transmembrane transporter activity quaternary ammonium group transmembrane transporter activity phosphatidylcholine transporter activity",
+"size": 125.0,
+"text": "Q00169"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 79,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleoside phosphate binding ion binding anion binding purine ribonucleoside triphosphate binding small molecule binding catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, phosphate group as acceptor kinase activity phosphomevalonate kinase activity nucleoside binding ribonucleoside binding purine nucleoside binding purine ribonucleoside binding nucleotide binding ribonucleotide binding purine nucleotide binding purine ribonucleotide binding adenyl nucleotide binding adenyl ribonucleotide binding ATP binding",
+"size": 125.0,
+"text": "Q15126"
+},
+{
+"children": null,
+"cluster": 66,
+"id": 80,
+"count": "molecular_function binding ion binding cation binding metal ion binding transition metal ion binding zinc ion binding catalytic activity transferase activity transferase activity, transferring glycosyl groups transferase activity, transferring pentosyl groups NAD+ ADP-ribosyltransferase activity",
+"size": 125.0,
+"text": "Q9NTG7"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 81,
+"count": "molecular_function transporter activity substrate-specific transporter activity transmembrane transporter activity substrate-specific transmembrane transporter activity ion transmembrane transporter activity anion transmembrane transporter activity inorganic anion transmembrane transporter activity phosphate ion transmembrane transporter activity phosphate ion carrier activity",
+"size": 125.0,
+"text": "Q00325"
+},
+{
+"children": null,
+"cluster": 68,
+"id": 82,
+"count": "molecular_function binding binding, bridging",
+"size": 125.0,
+"text": "Q15628"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 83,
+"count": "molecular_function binding lipid binding",
+"size": 125.0,
+"text": "Q00341"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 84,
+"count": "molecular_function enzyme regulator activity nucleoside-triphosphatase regulator activity GTPase regulator activity guanyl-nucleotide exchange factor activity small GTPase regulator activity Ras guanyl-nucleotide exchange factor activity Rho guanyl-nucleotide exchange factor activity enzyme activator activity GTPase activator activity Ras GTPase activator activity Rho GTPase activator activity",
+"size": 125.0,
+"text": "Q07889"
+},
+{
+"children": null,
+"cluster": 70,
+"id": 85,
+"count": "molecular_function molecular transducer activity signal transducer activity receptor signaling protein activity transforming growth factor beta receptor, cytoplasmic mediator activity transforming growth factor beta receptor, common-partner cytoplasmic mediator activity binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding sequence-specific DNA binding regulatory region nucleic acid binding regulatory region DNA binding transcription regulatory region DNA binding core promoter proximal region DNA binding transcription regulatory region sequence-specific DNA binding core promoter proximal region sequence-specific DNA binding",
+"size": 125.0,
+"text": "Q13485"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 86,
+"count": "molecular_function catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity cyclin-dependent protein kinase activity protein serine/threonine kinase activity cyclin-dependent protein serine/threonine kinase activity",
+"size": 125.0,
+"text": "Q00526"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 87,
+"count": "molecular_function molecular transducer activity signal transducer activity binding lipid binding drug binding receptor activity signaling receptor activity steroid hormone receptor activity",
+"size": 125.0,
+"text": "Q07869"
+},
+{
+"children": null,
+"cluster": 72,
+"id": 88,
+"count": "molecular_function catalytic activity hydrolase activity hydrolase activity, acting on ester bonds phosphoric ester hydrolase activity phosphatase activity phosphoprotein phosphatase activity protein tyrosine/serine/threonine phosphatase activity protein tyrosine phosphatase activity protein serine/threonine phosphatase activity",
+"size": 125.0,
+"text": "Q16667"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 89,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleoside phosphate binding ion binding anion binding purine ribonucleoside triphosphate binding small molecule binding catalytic activity transferase activity transferase activity, transferring phosphorus-containing groups phosphotransferase activity, alcohol group as acceptor kinase activity protein kinase activity cyclin-dependent protein kinase activity protein serine/threonine kinase activity cyclin-dependent protein serine/threonine kinase activity nucleoside binding ribonucleoside binding purine nucleoside binding purine ribonucleoside binding nucleotide binding ribonucleotide binding purine nucleotide binding purine ribonucleotide binding adenyl nucleotide binding adenyl ribonucleotide binding ATP binding",
+"size": 125.0,
+"text": "Q00534"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 90,
+"count": "molecular_function binding heterocyclic compound binding organic cyclic compound binding nucleic acid binding DNA binding ion binding cation binding metal ion binding calcium ion binding protein binding protein dimerization activity protein heterodimerization activity identical protein binding protein homodimerization activity transcription factor binding nucleic acid binding transcription factor activity sequence-specific DNA binding transcription factor activity regulatory region nucleic acid binding regulatory region DNA binding",
+"size": 125.0,
+"text": "Q01196"
+},
+{
+"children": null,
+"cluster": 74,
+"id": 91,
+"count": "molecular_function binding protein binding unfolded protein binding",
+"size": 125.0,
+"text": "Q16543"
+},
